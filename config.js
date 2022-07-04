@@ -8,8 +8,8 @@ import {
 } from 'url'
 
 global.owner = [
-	//  ['917736308760'],
-	['917736308760', 'Benniismail?', true]
+	//  ['+6283894556422'],
+	['+6283894556422', 'Benniismail?', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
